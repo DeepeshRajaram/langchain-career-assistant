@@ -27,14 +27,14 @@ streamlit run streamlitChat_app.py
 
 
 ## Home Screen
-screenshots/Home-Screen.png
+![Home Screen](screenshots/Home-Screen.png)
 
 
 ## Career Guidance Chat
-screenshots/Career-Guidance-Chat.png
+![Careen Guidance Chat](screenshots/Career-Guidance-Chat.png)
 
 ## Download Career Plan
-screenshots/Download-Career-Plan.png
+![Download Career Plan](screenshots/Download-Career-Plan.png)
 
 ## Demo
-screenshots/careerassistant.gif
+![Demo](screenshots/careerassistant.gif)
